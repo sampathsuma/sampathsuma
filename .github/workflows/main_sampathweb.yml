@@ -8,7 +8,7 @@ on:
     branches:
       - main
   workflow_dispatch:
-
+   -githubsampath
 jobs:
   build:
     runs-on: ubuntu-latest
